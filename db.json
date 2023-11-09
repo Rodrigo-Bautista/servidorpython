@@ -11,13 +11,13 @@
       "id": 1,
       "titulo": "Bendecido dìa",
       "contenido": "Buenos dìas, espero les vaya muy bien",
-    }
+    },
   ],
   "comentarios":[
     {
       "id":1,
       "autor": "Raúl",
       "texto": "¡Gracias!, igualmente",
-    }
+    },
   ],
 }
