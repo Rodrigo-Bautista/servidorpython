@@ -1,23 +1,23 @@
 {
   "Usuarios": [
     { 
-      "id": 1,
-      "nombre": "Juan Riquelme",
-      "email": "Juanriquelme1@gmail.com",
-    },
-  ],
+      "id": 1;
+      "nombre": "Juan Riquelme";
+      "email": "Juanriquelme1@gmail.com";
+    };
+  ];
   "publicaciones":[
     { 
-      "id": 1,
-      "titulo": "Bendecido dìa",
-      "contenido": "Buenos dìas, espero les vaya muy bien",
-    },
-  ],
+      "id": 1;
+      "titulo": "Bendecido dìa";
+      "contenido": "Buenos dìas, espero les vaya muy bien";
+    };
+  ];
   "comentarios":[
     {
-      "id":1,
-      "autor": "Raúl",
-      "texto": "¡Gracias!, igualmente",
-    },
-  ],
+      "id":1;
+      "autor": "Raúl";
+      "texto": "¡Gracias!, igualmente";
+    };
+  ];
 }
